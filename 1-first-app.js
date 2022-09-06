@@ -1,4 +1,4 @@
-const myModule = require("./module-nedir"); // Buna erişirken sonuna js de desek olur demesek de. Başka bir module'e bağlantıyı sağlıyor. import etmek gibi düşübiliriz require'ı.
+const myModule = require("./2-module-nedir"); // Buna erişirken sonuna js de desek olur demesek de. Başka bir module'e bağlantıyı sağlıyor. import etmek gibi düşübiliriz require'ı.
 
 function selamVer() {
   console.log("Merhaba Node JS");
